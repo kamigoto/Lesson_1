@@ -7,7 +7,7 @@ public class MagicBall {
 
     public static void main(String[] args) {
 
-        System.out.println("Задвай свой вопрос");
+        System.out.println("Задавай свой вопрос");
 
         Scanner scanner = new Scanner(System.in);
 
